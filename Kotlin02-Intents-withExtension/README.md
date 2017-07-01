@@ -1,23 +1,24 @@
-  "## Kotlin02 - Intents with Library"
- <br>
-  Say goodbye to 'findViewById' by using Kotlin Android Extension. and now throw out the tutorials we will use this extension.
- <br>
- ## Setup Library
- For Extension installation, Add this Line <br>
-     <article>
-        <strong>apply plugin: 'kotlin-android-extensions'</strong>
-     </article>
- in App build.gradle file on the top like:
-     <article>
-         <strong>apply plugin: 'com.android.application'</strong><br>
-         <strong>apply plugin: 'kotlin-android'</strong><br>
-         <strong>apply plugin: 'kotlin-android-extensions'</strong>
-      </article>
- <br>
- ## Working
- For example we have this xml:<br>
-     <article>
-         <android.support.constraint.ConstraintLayout
+# Kotlin02 - Intents with Library
+
+Say goodbye to 'findViewById' by using Kotlin Android Extension. and now throw out the tutorials we will use this extension.
+
+# Setup Library
+
+For Extension installation, Add this Line:
+```sh
+apply plugin: 'kotlin-android-extensions'
+```
+in App build.gradle file on the top like:
+```sh
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+```
+
+### Working
+ For example we have this xml:
+ ```sh
+<android.support.constraint.ConstraintLayout
              android:layout_width="match_parent"
              android:layout_height="match_parent">
 
@@ -33,11 +34,11 @@
                  android:layout_width="248dp"
                  android:layout_height="89dp"/>
          </android.support.constraint.ConstraintLayout>
-     </article>
+```
 
-  Now our code is like: <br>
-  <article>
-    override fun onCreate(savedInstanceState: Bundle?) {
+Now our code is like: 
+ ```sh
+override fun onCreate(savedInstanceState: Bundle?) {
             super.onCreate(savedInstanceState)
             setContentView(R.layout.activity_main)
 
@@ -54,8 +55,10 @@
                 }
             }
         }
-  </article>
+        
+        fun nextActivity(context: Context, data: Editable) =  startActivity(Intent(context, Main2Activity::class.java)
+            .putExtra("data", data))
+```
 
- ## Contributors
-
+### Contributors
  Contributer: Ali Azaz Alam <ali.azaz.alam@hotmail.com>
