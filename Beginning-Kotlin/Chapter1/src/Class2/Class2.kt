@@ -3,14 +3,15 @@ package Class2
 fun main(args: Array<String>) {
 
     for (i in 1..10) {
-        val gotFortune = getFortuneCookie()
+        val gotBirthday = getBirthday()
+        val gotFortune = getFortuneCookie(gotBirthday)
         println("Your fortune is: $gotFortune")
         if (gotFortune == "Take it easy and enjoy life!") break
     }
 
 }
 
-fun getFortuneCookie(): String {
+fun getFortuneCookie(birthday: Int): String {
 
     val fortunes = listOf(
             "You will have a great day!",
@@ -21,12 +22,14 @@ fun getFortuneCookie(): String {
             "Take it easy and enjoy life!",
             "Treasure your friends because they are your greatest fortune.")
 
-    print("Enter your birthday:")
-    val birthday = readLine()?.toIntOrNull() ?: 1
-
     return when (birthday) {
         28, 31 -> "good fortune"
         in 1..7 -> "nice fortune"
         else -> fortunes[birthday.rem(fortunes.size)]
     }
+}
+
+fun getBirthday(): Int {
+    print("Enter your birthday:")
+    return readLine()?.toIntOrNull() ?: 1
 }

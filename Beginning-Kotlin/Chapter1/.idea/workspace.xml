@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29beb50a-eb01-4798-991d-1eb914229b09" name="Default Changelist" comment="" />
+    <list default="true" id="29beb50a-eb01-4798-991d-1eb914229b09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/androidTest/java/aku/jsi/edu/kotlin03_databinding/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/java/aku/jsi/edu/kotlin03_databinding/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/app/src/test/java/aku/jsi/edu/kotlin03_databinding/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidApp-Kotlin/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassKotlin/Class2/Class2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassKotlin/Class2/Class2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassKotlin/Class6/Class6Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassKotlin/Class6/Class6Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassKotlin/Class7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassKotlin/Class7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassKotlin/META-INF/ClassKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassKotlin/META-INF/ClassKotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class2/Class2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class2/Class2.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,84 +56,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1847965523">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="kt" value="2292" />
-          <entry key="kts" value="93" />
-          <entry key="md" value="55" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Kotlin" value="2385" />
-          <entry key="PLAIN_TEXT" value="55" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-          <entry key="kt" value="10" />
-          <entry key="md" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
-          <entry key="Kotlin" value="10" />
-          <entry key="PLAIN_TEXT" value="7" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Class7/Class7a.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Class7/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Class7/Class7b.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Class7/HLvlFnc.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,25 +77,28 @@
       <replace>spices</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Class1.kt" />
         <option value="$PROJECT_DIR$/src/README.md" />
         <option value="$PROJECT_DIR$/src/Class1/Class1.kt" />
-        <option value="$PROJECT_DIR$/src/Class2/Class2.kt" />
         <option value="$PROJECT_DIR$/src/Class2/README.md" />
         <option value="$PROJECT_DIR$/src/Class4/Class4.kt" />
         <option value="$PROJECT_DIR$/src/Class4/README.md" />
         <option value="$PROJECT_DIR$/src/Class5/Class5.kt" />
         <option value="$PROJECT_DIR$/src/Class5/README.md" />
-        <option value="$PROJECT_DIR$/src/Class6/Class6.kt" />
         <option value="$PROJECT_DIR$/src/Class6/README.md" />
         <option value="$PROJECT_DIR$/src/Class7/Class7.kt" />
-        <option value="$PROJECT_DIR$/src/Class7/Class7a.kt" />
         <option value="$PROJECT_DIR$/src/Class7/README.md" />
         <option value="$PROJECT_DIR$/src/Class7/Class7b.kt" />
         <option value="$PROJECT_DIR$/src/Class7/HLvlFnc.kt" />
+        <option value="$PROJECT_DIR$/src/Class2/Class2.kt" />
+        <option value="$PROJECT_DIR$/src/Class6/Class6.kt" />
+        <option value="$PROJECT_DIR$/src/Class7/Class7a.kt" />
       </list>
     </option>
   </component>
@@ -134,6 +108,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -154,19 +129,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="Class1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Class1" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Class1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Class1" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Class1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Class1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Class7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,7 +145,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543765397400" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559203490432" />
+    <property name="kotlin.migration.detection.enabled" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chapter3" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -195,28 +166,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Class7.Class7bKt">
-    <configuration name="Class4.Class4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Class6.Class6Kt">
+    <configuration name="Class1.Class1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="ClassKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Class4.Class4Kt" />
+      <option name="MAIN_CLASS_NAME" value="Class1.Class1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Class5.Class5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Class2.Class2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="ClassKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Class5.Class5Kt" />
+      <option name="MAIN_CLASS_NAME" value="Class2.Class2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -262,19 +233,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.Class4.Class4Kt" />
-      <item itemvalue="Kotlin.Class5.Class5Kt" />
       <item itemvalue="Kotlin.Class6.Class6Kt" />
       <item itemvalue="Kotlin.Class7.Class7aKt" />
       <item itemvalue="Kotlin.Class7.Class7bKt" />
+      <item itemvalue="Kotlin.Class2.Class2Kt" />
+      <item itemvalue="Kotlin.Class1.Class1Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Class6.Class6Kt" />
+        <item itemvalue="Kotlin.Class1.Class1Kt" />
+        <item itemvalue="Kotlin.Class2.Class2Kt" />
         <item itemvalue="Kotlin.Class7.Class7bKt" />
         <item itemvalue="Kotlin.Class7.Class7aKt" />
-        <item itemvalue="Kotlin.Class6.Class6Kt" />
-        <item itemvalue="Kotlin.Class5.Class5Kt" />
-        <item itemvalue="Kotlin.Class4.Class4Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -292,10 +263,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25586355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -304,15 +274,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.27540985" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.2751896" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.32936078" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -323,53 +294,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Class1/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="98" lean-forward="true" selection-start-line="29" selection-start-column="98" selection-end-line="29" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Class2/Class2.java" />
-    <entry file="file://$PROJECT_DIR$/src/Class2/Class2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class2/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class4/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class4/Class4.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class1/Class1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Class5/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -384,31 +313,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class6/Class6.kt">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Random.java" />
+    <entry file="file://$PROJECT_DIR$/src/Class7/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="9" column="90" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
+        <state relative-caret-position="187">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Primitives.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="535" column="24" selection-start-line="535" selection-start-column="24" selection-end-line="535" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class2/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class1/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class1/Class1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class4/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class2/Class2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class4/Class4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="94" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="94" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Class5/Class5.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="228" column="34" selection-start-line="228" selection-start-column="27" selection-end-line="228" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class7/Class7a.kt">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="20" selection-end-column="1" />
+          <caret line="15" column="50" lean-forward="true" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="772" column="27" selection-start-line="772" selection-start-column="27" selection-end-line="772" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class6/Class6.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -419,10 +398,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class7/README.md">
+    <entry file="file://$PROJECT_DIR$/src/Class7/Class7a.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
