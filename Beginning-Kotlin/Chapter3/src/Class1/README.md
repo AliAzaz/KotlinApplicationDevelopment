@@ -1,4 +1,4 @@
-##Practice Time
+## Practice Time
 Let's go through an example of getting information about a book in the format of a Pair. Generally, you want information about both the title and the author, and perhaps also the year.
 
 Let’s create a basic book class, with a title, author, and year. Of course, you could get each of the properties separately.
