@@ -1,4 +1,4 @@
-##Practice Time
+## Practice Time
 Let's improve our SimpleSpice class so that we can have various spices with different levels of spiciness.
 
 Create a new class, Spice.
@@ -11,6 +11,6 @@ Instead of the list of spices as Strings you used earlier, create a list of Spic
 
 Add an init block that prints out the values for the object after it has been created. Create a spice.
 
-Create a list of spices that are spicy or less than spicy. Hint: Use a filter and the heat property.
+Create a list of spices that are spicy or less than spicy. **Hint: Use a filter and the heat property.**
 
 Because salt is a very common spice, create a helper function called makeSalt().
