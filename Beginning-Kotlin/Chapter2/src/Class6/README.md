@@ -1,4 +1,4 @@
-##Practice Time
+## Practice Time
 You used object in the previous lesson and quiz.
 
 And now that you know about enums, here's the code for Color as an enum:

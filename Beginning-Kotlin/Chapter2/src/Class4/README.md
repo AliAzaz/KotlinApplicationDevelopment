@@ -1,5 +1,6 @@
-###Practice Time
-#Abstract and Interface
+### Practice Time
+
+## Abstract and Interface
 Let's go back to your spices. Make Spice an abstract class, and then create some subclasses that are actual spices.
 
 It's easiest (organizationally) if you make a new package, Spices, with a file, Spice, that has a main() function.
