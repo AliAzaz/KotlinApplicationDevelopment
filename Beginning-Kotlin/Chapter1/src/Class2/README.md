@@ -17,5 +17,4 @@ else … return the calculated fortune as before.
 
 ```
 
-### Hint: 
-**There are several ways in which to make this when statement. How much can you Kotlinize it?**
+#### Hint: There are several ways in which to make this when statement. How much can you Kotlinize it?
