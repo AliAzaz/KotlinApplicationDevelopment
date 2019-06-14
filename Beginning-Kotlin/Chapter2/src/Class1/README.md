@@ -1,4 +1,4 @@
-##Practice Time
+## Practice Time
 
 Earlier, we created and filtered a list of spices. Spices are much better represented as objects than as simple strings. Because they are objects, we can perform different things with them - such as cooking.
 
