@@ -1,4 +1,4 @@
-##Practice Time
+## Practice Time
 Create a program that suggests an activity based on various parameters.
 
 Start in a new file with a main function.
@@ -17,4 +17,4 @@ Copy/paste your finished function into REPL, and call it with combinations of ar
 whatShouldIDoToday("sad")
 > Stay home and read.
 
-###Note: Keep your work as you will do more with this code in the next practice.
+#### Note: Keep your work as you will do more with this code in the next practice.
