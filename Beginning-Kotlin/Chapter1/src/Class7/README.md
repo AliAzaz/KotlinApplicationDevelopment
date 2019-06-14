@@ -1,4 +1,4 @@
-##Practice Time: Lambdas
+## Practice Time: Lambdas
 
 Create a lambda and assign it to rollDice, which returns a dice roll (number between 1 and 12).
 
@@ -9,7 +9,7 @@ If you haven't done so, fix the lambda to return 0 if the number of sides passed
 Create a new variable, rollDice2, for this same lambda using the function type notation.
 
 
-##Practice Time: Extra Questions
+## Practice Time: Extra Questions
 Why would you want to use the function type notation instead of just the lambda?
 
 Create a function gamePlay() that takes a roll of the dice as an argument and prints it out.
