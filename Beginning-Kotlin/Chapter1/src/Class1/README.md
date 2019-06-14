@@ -1,4 +1,4 @@
-##Practice Time
+# Practice Time
 
 Create a program with a function that returns a fortune cookie message that you can print.
 
@@ -16,15 +16,15 @@ In the body of Class1.getFortuneCookie(), create a list of fortunes. Here are so
 "Treasure your friends because they are your greatest fortune."
 Below the list, print: "Enter your birthday: "
 
-Hint: Use print(), not println()
+#### Hint: Use print(), not println()
 Create a variable, birthday.
 Read the user's input form the standard input and assign it to birthday. If there is no valid input, set birthday to 1.
-Hint: Use readLine() to read a line of input (completed with Enter) as a String.
-Hint: In Kotlin, you can use toIntOrNull() to convert a number as a String to an Integer numeric. If the user enters "", toIntOrNull returns null.
-Hint: Check for null using the ? operator and use the ?: operator to handle the null case.
+#### Hint: Use readLine() to read a line of input (completed with Enter) as a String.
+#### Hint: In Kotlin, you can use toIntOrNull() to convert a number as a String to an Integer numeric. If the user enters "", toIntOrNull returns null.
+#### Hint: Check for null using the ? operator and use the ?: operator to handle the null case.
 Divide the birthday by the number of fortunes, and use the remainder as the index for the fortune to return.
 Return the fortune.
 In Class1.main(), print: "Your fortune is: ", followed by the fortune string.
 
-##Extra practice:
-Use a for loop to run the program 10 times, or until the "Take it easy" fortune has been selected.
+## Extra practice:
+**Use a for loop to run the program 10 times, or until the "Take it easy" fortune has been selected.**
